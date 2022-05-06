@@ -1,3 +1,3 @@
 # 線上筆記
 
-20220424 Algorithm of mode sorting for bulk wave and surface wave: [Click ME !](https://meet.google.com/vmc-wdtj-hhp?fbclid=IwAR1EboQ6JCShmwoqjjhsF5S2dewCGULZTBIFdSmqlgBF_JVyqmpRrkCN17g)
+20220424 Algorithm of mode sorting for bulk wave and surface wave: [Click ME !](https://hackmd.io/w8I3RzWOSeyFX2Es4lBEtg?view)
