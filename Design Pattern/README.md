@@ -11,3 +11,7 @@
 20241006 Prototype: [Click Me !](https://hackmd.io/@LinTsungHsun/rJA6Vn0RA?fbclid=IwY2xjawFvNMZleHRuA2FlbQIxMAABHb_DVRQOBoxQo1_LMC0yXdcXORjm6hyaQwd8ihtVqcFoMP_wTjI8ILpNyg_aem_yqOBbRWFlN8e23oOijEWhg)
 
 20241006 Singleton: [Click Me !](https://hackmd.io/MJGK9ElxTNKroey2oaOzxA?both)
+
+20241020 Bridge: [Click Me !](https://hackmd.io/@SeanSunGGininder/BJCIVA1xkx?fbclid=IwY2xjawGBjNhleHRuA2FlbQIxMAABHaO_x5p7a3gzRY57_btrJYw3LSnixIPPVjAkKKs8biUx34SJkUV9qO6g3g_aem_eCFWB3nSmv005Ke6roiWaA)
+
+20241020 Adapter: [Click Me !](https://hackmd.io/@WJH0g87cQq-Gn3b_VB0joA/Bkfo7jZekg?fbclid=IwY2xjawGBjNpleHRuA2FlbQIxMAABHZ5dYMiSa5xXaazCnjfaovXvVpQ2qao_CccBtmoN33vs9RG0Iqo4_63l3w_aem_f5dydKVnWgVR9o8AGs4WZg)
