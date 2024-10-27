@@ -16,6 +16,6 @@
 
 20241020 Adapter: [Adapter](https://hackmd.io/@WJH0g87cQq-Gn3b_VB0joA/Bkfo7jZekg?fbclid=IwY2xjawGBjNpleHRuA2FlbQIxMAABHZ5dYMiSa5xXaazCnjfaovXvVpQ2qao_CccBtmoN33vs9RG0Iqo4_63l3w_aem_f5dydKVnWgVR9o8AGs4WZg)
 
-20241027 Decorator: [Decorator](https://hackmd.io/@WeiBanana/ByFEUeBx1g?fbclid=IwY2xjawGK1uJleHRuA2FlbQIxMAABHT1TSEKAKkrZpeSBecoSXLgbmgoCbrZL_qoWWTIJVfAj3RgyL47uuqVUvw_aem_Ny8ZxtaFmQaJuLQ0Dd5ysw)
+20241027 Decorator: [Decorator](https://hackmd.io/@GRqzLUyXR6Sv7e_fcP_Msw/Syf3U8seJe?fbclid=IwY2xjawGK1EVleHRuA2FlbQIxMAABHdfEabhglpyeL-AwZEJaN7Kp7zR7_nRwlBo-vTuVo1W5m4WPM_dmLRry9g_aem_YtKSjog4s_VskXzrUYssEg#AOPAspect-oriented-programming)
 
-20241027 Composite: [Composite](https://hackmd.io/@GRqzLUyXR6Sv7e_fcP_Msw/Syf3U8seJe?fbclid=IwY2xjawGK1EVleHRuA2FlbQIxMAABHdfEabhglpyeL-AwZEJaN7Kp7zR7_nRwlBo-vTuVo1W5m4WPM_dmLRry9g_aem_YtKSjog4s_VskXzrUYssEg#AOPAspect-oriented-programming)
+20241027 Composite: [Composite](https://hackmd.io/@WeiBanana/ByFEUeBx1g?fbclid=IwY2xjawGK2dVleHRuA2FlbQIxMAABHT1TSEKAKkrZpeSBecoSXLgbmgoCbrZL_qoWWTIJVfAj3RgyL47uuqVUvw_aem_Ny8ZxtaFmQaJuLQ0Dd5ysw)
