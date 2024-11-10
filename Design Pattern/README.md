@@ -19,3 +19,7 @@
 20241027 Decorator: [Decorator](https://hackmd.io/@GRqzLUyXR6Sv7e_fcP_Msw/Syf3U8seJe?fbclid=IwY2xjawGK1EVleHRuA2FlbQIxMAABHdfEabhglpyeL-AwZEJaN7Kp7zR7_nRwlBo-vTuVo1W5m4WPM_dmLRry9g_aem_YtKSjog4s_VskXzrUYssEg#AOPAspect-oriented-programming)
 
 20241027 Composite: [Composite](https://hackmd.io/@WeiBanana/ByFEUeBx1g?fbclid=IwY2xjawGK2dVleHRuA2FlbQIxMAABHT1TSEKAKkrZpeSBecoSXLgbmgoCbrZL_qoWWTIJVfAj3RgyL47uuqVUvw_aem_Ny8ZxtaFmQaJuLQ0Dd5ysw)
+
+20241109 Facade: [Facade](https://hackmd.io/UyBTQJHaQx-xksJzkd4lEw?view)
+
+20241109 Flyweight: [Flyweight](https://hackmd.io/yalSe-StRRmTSvGn4tqLew?view)
