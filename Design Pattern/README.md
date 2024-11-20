@@ -23,3 +23,7 @@
 20241109 Facade: [Facade](https://hackmd.io/UyBTQJHaQx-xksJzkd4lEw?view)
 
 20241109 Flyweight: [Flyweight](https://hackmd.io/yalSe-StRRmTSvGn4tqLew?view)
+
+20241117 Proxy: [Proxy](https://hackmd.io/@WJH0g87cQq-Gn3b_VB0joA/S1GfvRLGke?fbclid=IwZXh0bgNhZW0CMTAAAR27-EOY1F_yoPBvPLHsLIPTb-8g0jMC2W7EauTQ-ELGaKRuRG6eQFoAicE_aem_wAxUBXHDYzfoCCivOv53AA)
+
+20241117 Chain of Responsibility: [Chain of Responsibility](https://hackmd.io/@SeanSunGGininder/rJ8rMOUz1g?fbclid=IwZXh0bgNhZW0CMTAAAR3UqEqwjZE6yKcWZOxMe862zb0bANZS6vmASP5TCzZn8Y1jE4EbjqqNDNw_aem_7Qn09EzCgetCcC0jGAOYzA)
