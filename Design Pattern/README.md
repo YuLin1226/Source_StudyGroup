@@ -29,3 +29,7 @@
 20241117 Chain of Responsibility: [Chain of Responsibility](https://hackmd.io/@SeanSunGGininder/rJ8rMOUz1g?fbclid=IwZXh0bgNhZW0CMTAAAR3UqEqwjZE6yKcWZOxMe862zb0bANZS6vmASP5TCzZn8Y1jE4EbjqqNDNw_aem_7Qn09EzCgetCcC0jGAOYzA)
 
 20241201 Iterator: [Iterator](https://hackmd.io/@YuLin1226/H15DBruXJl)
+
+20241208 Mediator: [Mediator](https://hackmd.io/@GRqzLUyXR6Sv7e_fcP_Msw/S1b7Mtnm1e?fbclid=IwY2xjawHCI8RleHRuA2FlbQIxMAABHVnPbpmK9UFdhETc-PJV5q5VGImvswKA7qFXKt7gbvITht6vU6pfZEYa6A_aem_hKKoID4pAvVpONHY2ikiEQ)
+
+20241208 Command: [Command](https://hackmd.io/@WeiBanana/HkXgfMwz1l)
