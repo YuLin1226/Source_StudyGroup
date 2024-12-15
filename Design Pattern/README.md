@@ -33,3 +33,7 @@
 20241208 Mediator: [Mediator](https://hackmd.io/@GRqzLUyXR6Sv7e_fcP_Msw/S1b7Mtnm1e?fbclid=IwY2xjawHCI8RleHRuA2FlbQIxMAABHVnPbpmK9UFdhETc-PJV5q5VGImvswKA7qFXKt7gbvITht6vU6pfZEYa6A_aem_hKKoID4pAvVpONHY2ikiEQ)
 
 20241208 Command: [Command](https://hackmd.io/@WeiBanana/HkXgfMwz1l)
+
+20241215 Memento: [Memento](https://hackmd.io/@LinTsungHsun/SJ3v5bOEkx?fbclid=IwY2xjawHLc59leHRuA2FlbQIxMAABHXun2zOStoza72NAJX2UKgRkQBlVqb6XxoQPm8i0FvwpAqlpnrWpCTAxPA_aem_HrwJeuVTUX8ZXUX_LgDKMw)
+
+20241215 Observer: [Observer](https://hackmd.io/@SeanSunGGininder/rk1fbbjEkl?fbclid=IwY2xjawHLc7dleHRuA2FlbQIxMAABHc92CjMHdvMVb11OJtRT6EKWnjHIOAlROCwFWQCv7leoFddqpkMYZloBGw_aem_A_uKYPOk2WmguTohHTR_JA)
