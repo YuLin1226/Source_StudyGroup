@@ -37,3 +37,5 @@
 20241215 Memento: [Memento](https://hackmd.io/@LinTsungHsun/SJ3v5bOEkx?fbclid=IwY2xjawHLc59leHRuA2FlbQIxMAABHXun2zOStoza72NAJX2UKgRkQBlVqb6XxoQPm8i0FvwpAqlpnrWpCTAxPA_aem_HrwJeuVTUX8ZXUX_LgDKMw)
 
 20241215 Observer: [Observer](https://hackmd.io/@SeanSunGGininder/rk1fbbjEkl?fbclid=IwY2xjawHLc7dleHRuA2FlbQIxMAABHc92CjMHdvMVb11OJtRT6EKWnjHIOAlROCwFWQCv7leoFddqpkMYZloBGw_aem_A_uKYPOk2WmguTohHTR_JA)
+
+20250112 State: [State](https://hackmd.io/OXWmq2PpSlKM3Dqz4-YjAA)
