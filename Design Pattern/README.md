@@ -39,3 +39,9 @@
 20241215 Observer: [Observer](https://hackmd.io/@SeanSunGGininder/rk1fbbjEkl?fbclid=IwY2xjawHLc7dleHRuA2FlbQIxMAABHc92CjMHdvMVb11OJtRT6EKWnjHIOAlROCwFWQCv7leoFddqpkMYZloBGw_aem_A_uKYPOk2WmguTohHTR_JA)
 
 20250112 State: [State](https://hackmd.io/OXWmq2PpSlKM3Dqz4-YjAA)
+
+20250126 Visitor: [Visitor](https://hackmd.io/@LinTsungHsun/SkHqFtfuyl?fbclid=IwY2xjawIw8m1leHRuA2FlbQIxMAABHZmBwkcBYLrIsyvgtAio9SwDw4zPpu7lApVLifvmcg_hcoLixkhxg46FSA_aem_n3aHHOmKnep8s-T1xAeJTQ)
+
+20250126 Template: [Template](https://hackmd.io/@WeiBanana/BJDnpTTvJl?fbclid=IwY2xjawIw8mpleHRuA2FlbQIxMAABHboM39W3KzL4wFsq1JXfWJp3SPy8lJQrowNvaI9nOBUhTXYtyD3HnDCVHQ_aem_TKyEjS2XUGcT_0s51onofA)
+
+20250126 Strategy: [Strategy](https://hackmd.io/@WJH0g87cQq-Gn3b_VB0joA/BJvQN7XOyg?fbclid=IwY2xjawIw8mhleHRuA2FlbQIxMAABHWzcVex3JMxmxusybfe_zZLAMdLYMNORf2tLgBWPUMB2yJIgnb94XDELXA_aem_dYheXGfo4G5yLg9HMyXljw)
